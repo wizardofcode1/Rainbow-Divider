@@ -48,19 +48,3 @@
 .hr.anim:hover:after {
   animation-duration: 2s;
 }
-body {
-  background: #10111F;
-  padding: 4em;
-  font-family: Lato;
-  font-weight: 100;
-  color: #696B89;
-  text-indent: 1em;
-  line-height: 1;
-}
-h1, h2 {
-  line-height: 1;
-  margin-bottom: -0.5em;
-}
-h2 {
-  margin-top: 5em;
-}
